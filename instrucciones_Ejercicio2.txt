@@ -1,0 +1,4 @@
+Para el punto 5 del ejercicio 2, se ha implementado una API (MNAPI) que aborda la gestión de la aplicación.
+Primero hay que ejecutar el proyecto de la API, que correrá en localhost:7102.
+Una vez la API está online, se ha modificado el programa Ejercicio2 para que funcione estrictamente contra la API.
+Faltarán muchas comprobaciones de conexión y seguridad que tendrían que ser añadidas, pero para este ejemplo debería servir así.
