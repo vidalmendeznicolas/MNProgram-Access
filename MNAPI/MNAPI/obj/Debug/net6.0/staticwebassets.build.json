@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P8FLLArc5D+qSaX7SHsnocSZpsPP9N0TqRrBOK9oqt4=",
+  "Source": "MNAPI",
+  "BasePath": "_content/MNAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
