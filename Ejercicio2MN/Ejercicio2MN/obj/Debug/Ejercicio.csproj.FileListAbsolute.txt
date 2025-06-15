@@ -1,0 +1,13 @@
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\bin\Debug\Ejercicio2MN.exe.config
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\bin\Debug\Ejercicio2MN.exe
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\bin\Debug\Ejercicio2MN.pdb
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio.frmPrincipal.resources
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio2MN.Properties.Resources.resources
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio.csproj.Up2Date
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio2MN.exe
+C:\Users\nicov\Desktop\Linkdin\Ejercicio2_Parte_Opcional\Ejercicio2MN\Ejercicio2MN\obj\Debug\Ejercicio2MN.pdb
